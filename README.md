@@ -29,7 +29,7 @@ Sistem **Point of Sale (POS)** sederhana berbasis **Laravel**, digunakan untuk m
 
 ## 🛠️ Teknologi
 
-- Laravel
+- Laravel 12
 - MySQL
 - Bootstrap 5
 - JavaScript
